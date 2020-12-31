@@ -1,7 +1,7 @@
 # Ontario Museum Association - Market Research Analysis
 ### A market research analysis on the "Affect of Digitalization on Museums"
 
-This repository holds the prosprective research brief, proposal, survey questionnaire, and presentation of findings for the market research conducted for the Ontario Museum Association to understand the affect of digitalization on museums.
+This repository holds the prospective research brief, proposal, survey questionnaire, and presentation of findings for the market research conducted for the Ontario Museum Association to understand the affect of digitalization on museums.
 
 ## Table of Contents
 
